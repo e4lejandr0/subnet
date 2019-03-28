@@ -1,7 +1,6 @@
 # Subnet Calculator
 
-A subnet calculator implemented using constexpr metaprogramming.
-For fun and learning purposes.
+A subnet calculator implemented with C++ templates to allow for extensibility shall we ever run out of IPv6 addresses...
 
 # License
 
